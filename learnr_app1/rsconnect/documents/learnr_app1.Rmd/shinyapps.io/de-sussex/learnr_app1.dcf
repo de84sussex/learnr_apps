@@ -1,0 +1,13 @@
+name: learnr_app1
+title: learnr_app1
+username:
+account: de-sussex
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4390263
+bundleId: 4823817
+url: https://de-sussex.shinyapps.io/learnr_app1/
+when: 1626381580.00165
+lastSyncTime: 1626381580.00165
+asMultiple: FALSE
+asStatic: FALSE
